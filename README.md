@@ -1,2 +1,2 @@
-# swag_labs
+# swag-labs
 Swag labs automation framework
